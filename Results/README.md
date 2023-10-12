@@ -2,7 +2,7 @@ Figure 1: Inertia plot of the K-means clustering method
 
 Figure 2: Visualization of the identified clusters 
 
-  (a) K = 5 
+emsp (a) K = 5 
 
   (b) K = 6
 
