@@ -4,7 +4,7 @@
 
 This repository contains the code accompanying the following article:
 
-> **S. Hosseinian, M. Hemmati, C. Dede, T. C. Salzillo, L. V. van Dijk, A. Mohamed, S. Y. Lai, A. J. Schaefer, and C. D. Fuller. [Cluster-Based Toxicity Estimation of Osteoradionecrosis via Unsupervised Machine Learning: Moving Beyond Single Dose-Parameter Normal Tissue Complication Probability by Using Whole Dose-Volume Histograms for Cohort Risk Stratification.](https://doi.org/10.1016/j.ijrobp.2024.02.021) _International Journal of Radiation Oncology, Biology, Physics (2024)_.**
+> **S. Hosseinian, M. Hemmati, C. Dede, T. C. Salzillo, L. V. van Dijk, A. S. R. Mohamed, S. Y. Lai, A. J. Schaefer, and C. D. Fuller. [Cluster-Based Toxicity Estimation of Osteoradionecrosis via Unsupervised Machine Learning: Moving Beyond Single Dose-Parameter Normal Tissue Complication Probability by Using Whole Dose-Volume Histograms for Cohort Risk Stratification.](https://doi.org/10.1016/j.ijrobp.2024.02.021) _International Journal of Radiation Oncology, Biology, Physics (2024)_.**
 
 Citation:
 
