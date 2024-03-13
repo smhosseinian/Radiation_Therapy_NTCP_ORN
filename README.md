@@ -18,4 +18,4 @@ Citation:
 }
 ```
 
-For support in using the codes, please contact the corresponding author. 
+For support in using the code, please contact the corresponding author. 
