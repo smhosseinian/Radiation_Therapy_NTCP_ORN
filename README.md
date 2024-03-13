@@ -13,7 +13,7 @@ Citation:
   title={Cluster-Based Toxicity Estimation of Osteoradionecrosis via Unsupervised Machine Learning: Moving Beyond Single Dose-Parameter Normal Tissue Complication Probability by Using Whole Dose-Volume Histograms for Cohort Risk Stratification},
   author={Hosseinian, Seyedmohammadhossein and Hemmati, Mehdi and Dede, Cem and Salzillo, Travis C and van Dijk, Lisanne V. and Mohamed, Abdallah SR and Lai, Stephen Y and Schaefer, Andrew J and Fuller, Clifton D},
   journal={International Journal of Radiation Oncology, Biology, Physics},
-  year={2020},
+  year={2024},
   doi={https://doi.org/10.1016/j.ijrobp.2024.02.021}
 }
 ```
